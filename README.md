@@ -1,6 +1,6 @@
 <img alt="Picture" width="100%" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Muhammad Ehtisham</h1>
-<p align="center">A final year student at Faculty of Computing and Information Technology (PUCIT), currently working as an <strong>iOS Developer</strong>. I'm passionate about building elegant mobile experiences and constantly expanding my knowledge in the ever-evolving world of Information Technology. I studied Object Oriented Programming, Data Structures and Algorithms, MySQL, Operating System, Computer Networks, Python and a lot of invaluable content. I have hands-on experience in Full Stack web development utilizing React.js for frontend and Node.js, Flask and Django for backend.</p>
+<p align="center">I am an <strong>iOS Developer</strong>. I'm passionate about building elegant mobile experiences and constantly expanding my knowledge in the ever-evolving world of Information Technology. I studied Object Oriented Programming, Data Structures and Algorithms, MySQL, Operating System, Computer Networks, Python and a lot of invaluable content. I have hands-on experience in Full Stack web development utilizing React.js for frontend and Node.js, Flask and Django for backend.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehtishamsattar&label=Profile%20views&color=0e75b6&style=flat" alt="ehtishamsattar" /> </p>
 
